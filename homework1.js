@@ -27,5 +27,6 @@ function checkURL() {
         window.location.hash = $this.attr('href');//5-проверить получаемый window.location.hash
 
     }
-
+//можно передавать переменную container в ф-ию checkURL
+// Можно определеть ф-цию выше по тексту getContainer()
 }
