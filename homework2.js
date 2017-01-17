@@ -37,3 +37,4 @@ function formSetEditReport(idReport) {
 
     $('#report_idreport').val(idReport);
 }
+//Можно передевать ReportPlugin в зависимостях в ф-цию formSetEditReport
